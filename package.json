@@ -1,0 +1,19 @@
+{
+  "name": "text-layer",
+  "version": "1.0.0",
+  "description": "Framer.js module that simplifies the process of adding text to your prototypes.",
+  "main": "TextLayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shavyg2/textLayer-for-Framer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shavyg2/textLayer-for-Framer/issues"
+  },
+  "homepage": "https://github.com/shavyg2/textLayer-for-Framer#readme"
+}
